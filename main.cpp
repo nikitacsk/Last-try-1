@@ -20,5 +20,6 @@ int main()
         }
         cout<<endl;
     }
+    cout<<"YES";
     return 0;
 }
