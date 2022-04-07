@@ -20,6 +20,6 @@ int main()
         }
         cout<<endl;
     }
-    cout<<"YES";
+    cout<<"YES"<<endl<<"second YES)";
     return 0;
 }
